@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm SALAM
+
+Je suis un Data Scientiste passionné par l'analyse des données et l'utilisation des technologies pour résoudre des problèmes complexes. J'ai une solide formation en mathématiques et en informatique, ainsi qu'une expérience pratique en analyse de données et en développement logiciel. Je suis capable de travailler avec des outils tels que Python, SQL et Tableau pour analyser et interpréter des données. Je suis également très à l'aise avec les méthodes d'apprentissage automatique et je peux créer des modèles prédictifs et des algorithmes pour résoudre des problèmes complexes. Je suis très motivé et je cherche à me perfectionner constamment en développant mes compétences et en apprenant de nouvelles technologies.
 
 Here are some ideas to get you started:
 
