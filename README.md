@@ -3,6 +3,10 @@
   I am a Data Scientist passionate about analyzing data and using technologies to solve complex problems. I have a strong background in math and computer science, as well as hands-on experience in data analysis and software development. I am able to work with tools such as Python, SQL and Tableau to analyze and interpret data. I am also very comfortable with machine learning methods and can create predictive models and algorithms to solve complex problems. I am very motivated and I seek to constantly improve myself by developing my skills and learning new technologies.
 
 <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<div align="center">
     <h2 align="centre">Visitors Count</h2>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ouedraogo-salam}/count.svg" /></p> 
     <br>
